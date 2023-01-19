@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;500;900&family=Work+Sans:wght@200;300;400;500;600;700;800&display=swap');
+body{
+    font-family: 'Ubunto', sans-serif !important;
+    background-color: rgb(250, 214, 149) !important;
+}
+.contact-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
