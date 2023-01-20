@@ -14,7 +14,7 @@ import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename='/ccc'>
+    <BrowserRouter>
       <App/>
     </BrowserRouter>
   </React.StrictMode>
